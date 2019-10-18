@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Todo's:
+- embed existing map in react app
+- shorten the polygon, find out allowed length of post url
+- visualize the results
+
+## Python map
+
+poly greater london from: https://data.cdrc.ac.uk/dataset/london
+
 ## Available Scripts
 
 In the project directory, you can run:
