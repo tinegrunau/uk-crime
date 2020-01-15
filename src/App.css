@@ -13,13 +13,12 @@ body {
 }
 
 .App-header {
-  margin-top: 50px;
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: normal;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -35,4 +34,14 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+.map {
+  height: 50vh;
+}
+
+.description {
+  max-width: 50vw;
+  text-align: center;
+  margin: 0 auto;
 }
